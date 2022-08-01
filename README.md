@@ -7,7 +7,7 @@ This repository contains my associated notebooks with the IBM Data Science Profe
   - #### [SKILLS YOU WILL GAIN](#SYWG)
 - ### [Applied Learning Project](#ALP)
 - ### [There are 10 courses in this Professional Certificate](#10courses)
-  - #### [Course 1: What is Data Science?](#course1)
+  - #### [Course 1: What is Data Science?](#course1) [My Course 1 Notebook](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/blob/main/Course%201%20-%20What%20is%20Data%20Science/What%20is%20Data%20Science%20Notes.ipynb)
   - #### [Course 2: Tools for Data Science](#course2)
   - #### [Course 3: Data Science Methodology](#course3)
   - #### [Course 4: Python for Data Science, AI, & Development](#course4)
@@ -57,7 +57,7 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 **Projects**: random album generator, predict housing prices, best classifier model, Predicting successful rocket landing, dashboa rd and interactive map
 
 ### There are 10 courses in this Professional Certificate: <a class="anchor" id="10courses"></a>
-- **Course 1: What is Data Science?** <a class="anchor" id="course1"></a>
+- **Course 1: What is Data Science?** <a class="anchor" id="course1"></a> [My Course 1 Notebook](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/blob/main/Course%201%20-%20What%20is%20Data%20Science/What%20is%20Data%20Science%20Notes.ipynb)
   - The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, we will meet some data science practitioners and we will get an overview of what data science is toda
 - **Course 2: Tools for Data Science** <a class="anchor" id="course2"></a>
   - What are some of the most popular data science tools, how do you use them, and what are their features? In this course, you'll learn about Jupyter Notebooks, JupyterLab, RStudio IDE, Git, GitHub, and Watson Studio. You will learn about what each tool is used for, what programming languages they can execute, their features and limitations. With the tools hosted in the cloud on Skills Network Labs, you will be able to test each tool and follow instructions to run simple code in Python, R or Scala. To end the course, you will create a final project with a Jupyter Notebook on IBM Watson Studio and demonstrate your proficiency preparing a notebook, writing Markdown, and sharing your work with your peers.
