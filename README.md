@@ -6,7 +6,7 @@ This repository contains my associated notebooks with the IBM Data Science Profe
   - #### [WHAT YOU WILL LEARN](#WYWL)
   - #### [SKILLS YOU WILL GAIN](#SYWG)
 - ### [Applied Learning Project](#ALP)
-- ### [There are 10 courses in this Professional Certificate](#10courses)
+- ### [There are 9 courses in this Professional Certificate](#9courses)
   - #### [Course 1: What is Data Science?](#course1) - [My Course 1 Notebook](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/blob/main/Course%201%20-%20What%20is%20Data%20Science/What%20is%20Data%20Science%20Notes.ipynb)
   - #### [Course 2: Tools for Data Science](#course2) - [My Course 2 Notebook](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/blob/main/Course%202%20-%20Tools%20For%20Data%20Science/Tools%20For%20Data%20Science%20Notes.ipynb)
   - #### [Course 3: Data Science Methodology](#course3) - [My Course 3 Notebook](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/blob/main/Course%203%20-%20Data%20Science%20Methodology/Data%20Science%20Methodology%20Notes.ipynb)
@@ -16,7 +16,7 @@ This repository contains my associated notebooks with the IBM Data Science Profe
   - #### [Course 7: Data Analysis with Python](#course7) - [My Course 7 Notes](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/tree/main/C7%20-%20Data%20Analysis%20with%20Python)
   - #### [Course 8: Data Visualization with Python](#course8) - [My Course 8 Notes](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/tree/main/C8%20-%20Data%20Visualization%20with%20Python)
   - #### [Course 9: Machine Learning with Python](#course9) - [My Course 9 Notes](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/tree/main/C9%20-%20Machine%20Learning%20with%20Python)
-  - #### [Course 10: Applied Data Science Capstone](#course10)
+<!---  - #### [Course 10: Applied Data Science Capstone](#course10) --->
 
 ### About This Professional Certificate: <a class="anchor" id="about"></a>
 
@@ -56,7 +56,7 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
 **Libraries**: Pandas, NumPy, Matplotlib, Seaborn, Folium, ipython-sql, Scikit-learn, ScipPy, etc. 
 **Projects**: random album generator, predict housing prices, best classifier model, Predicting successful rocket landing, dashboa rd and interactive map
 
-### There are 10 courses in this Professional Certificate: <a class="anchor" id="10courses"></a>
+### There are 9 courses in this Professional Certificate: <a class="anchor" id="9courses"></a>
 - **Course 1: What is Data Science?** <a class="anchor" id="course1"></a> - [My Course 1 Notebook](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/blob/main/Course%201%20-%20What%20is%20Data%20Science/What%20is%20Data%20Science%20Notes.ipynb)
   - The art of uncovering the insights and trends in data has been around since ancient times. The ancient Egyptians used census data to increase efficiency in tax collection and they accurately predicted the flooding of the Nile river every year. Since then, people working in data science have carved out a unique and distinct field for the work they do. This field is data science. In this course, we will meet some data science practitioners and we will get an overview of what data science is toda
 - **Course 2: Tools for Data Science** <a class="anchor" id="course2"></a> - [My Course 2 Notebook](https://github.com/Tim-The-Wilson/IBM-Data-Science-Professional-Certificate/blob/main/Course%202%20-%20Tools%20For%20Data%20Science/Tools%20For%20Data%20Science%20Notes.ipynb)
@@ -90,5 +90,5 @@ This Professional Certificate has a strong emphasis on applied learning. Except 
     1) New skills such as regression, classification, clustering, sci-kit learn and SciPy 
     2) New projects that you can add to your portfolio, including cancer detection, predicting economic trends, predicting customer churn, recommendation engines, and many more.
     3) And a certificate in machine learning to prove your competency, and share it anywhere you like online or offline, such as LinkedIn profiles and social media.
-- **Course 10: Applied Data Science Capstone** <a class="anchor" id="course10"></a>
-  - This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.  SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch. 
+<!--- - **Course 10: Applied Data Science Capstone** <a class="anchor" id="course10"></a>
+  - This capstone project course will give you a taste of what data scientists go through in real life when working with real datasets. You will assume the role of a Data Scientist working for a startup intending to compete with SpaceX, and in the process follow the Data Science methodology involving data collection, data wrangling, exploratory data analysis, data visualization, model development, model evaluation, and reporting your results to stakeholders. You are tasked with predicting if the first stage of the SpaceX Falcon 9 rocket will land successfully.  SpaceX advertises Falcon 9 rocket launches on its website, with a cost of 62 million dollars; other providers cost upward of 165 million dollars each, much of the savings is because SpaceX can reuse the first stage. Therefore if you can accurately predict the likelihood of the first stage rocket landing successfully, you can determine the cost of a launch. With the help of your Data Science findings and models, the competing startup you have been hired by can make more informed bids against SpaceX for a rocket launch. --->
