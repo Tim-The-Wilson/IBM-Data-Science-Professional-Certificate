@@ -1,0 +1,4 @@
+## Week 2 Summary:
+* **Identify and Handle Missing Values:** Drop rows with incomplete information and impute missing data using the mean values.
+* **Understand Data Formatting:** Wrangle features in a dataset and make them meaningful for data analysis.
+* **Apply normalization to a data set:** By understanding the relevance of using feature scaling on your data and how normalization and standardization have varying effects on your data analysis.ata in Python:** How to do some introductory analysis in Python using functions like **dataframe.head()** to view the first few lines of the dataset, **dataframe.info()** to view the column names and data types.
